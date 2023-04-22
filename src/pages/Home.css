@@ -1,0 +1,7 @@
+.textPart1 {
+  width: 100%;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
